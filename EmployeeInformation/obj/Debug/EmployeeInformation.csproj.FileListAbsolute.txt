@@ -1,0 +1,10 @@
+C:\Users\shiva\Documents\EmployeeInformation--Assignment-master\EmployeeInformation--Assignment-master\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+C:\Users\shiva\Documents\EmployeeInformation--Assignment-master\EmployeeInformation--Assignment-master\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+C:\Users\shiva\Documents\EmployeeInformation--Assignment-master\EmployeeInformation--Assignment-master\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+C:\Users\shiva\Documents\EmployeeInformation--Assignment-master\EmployeeInformation--Assignment-master\EmployeeInformation\obj\Debug\EmployeeInformation.csprojResolveAssemblyReference.cache
+C:\Users\shiva\Documents\EmployeeInformation--Assignment-master\EmployeeInformation--Assignment-master\EmployeeInformation\obj\Debug\EmployeeInformation.frmInput.resources
+C:\Users\shiva\Documents\EmployeeInformation--Assignment-master\EmployeeInformation--Assignment-master\EmployeeInformation\obj\Debug\EmployeeInformation.frmOutput.resources
+C:\Users\shiva\Documents\EmployeeInformation--Assignment-master\EmployeeInformation--Assignment-master\EmployeeInformation\obj\Debug\EmployeeInformation.Properties.Resources.resources
+C:\Users\shiva\Documents\EmployeeInformation--Assignment-master\EmployeeInformation--Assignment-master\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.GenerateResource.Cache
+C:\Users\shiva\Documents\EmployeeInformation--Assignment-master\EmployeeInformation--Assignment-master\EmployeeInformation\obj\Debug\EmployeeInformation.exe
+C:\Users\shiva\Documents\EmployeeInformation--Assignment-master\EmployeeInformation--Assignment-master\EmployeeInformation\obj\Debug\EmployeeInformation.pdb

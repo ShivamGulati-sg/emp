@@ -22,5 +22,7 @@ namespace EmployeeInformation
             //Close form
             Application.Exit();
         }
+
+       
     }
 }
